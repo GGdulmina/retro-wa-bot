@@ -1,5 +1,11 @@
 # retro-wa-bot
 
+![GitHub repo size](https://img.shields.io/github/repo-size/GGdulmina/retro-wa-bot)
+![GitHub last commit](https://img.shields.io/github/last-commit/GGdulmina/retro-wa-bot)
+![GitHub](https://img.shields.io/github/license/GGdulmina/retro-wa-bot)
+![GitHub issues](https://img.shields.io/github/issues/GGdulmina/retro-wa-bot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/GGdulmina/retro-wa-bot)
+
 A lightweight, modular WhatsApp automation bot built with Node.js and [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js). Designed for local task management, featuring keyword-based auto-responses, network scanning capabilities, and efficient session handling.
 
 ## Features
