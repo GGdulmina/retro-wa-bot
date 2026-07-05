@@ -11,7 +11,7 @@ A lightweight, modular WhatsApp automation bot built with Node.js and [whatsapp-
 > [!WARNING]
 > **⚠️ IMPORTANT NOTICE: EXPERIMENTAL DEPLOYMENT & TESTING**
 > 
-> * **Mobile Web Version Deployment:** This bot attempts to read all incoming data simultaneously. For optimal performance and to avoid rate limits, it is highly recommended to deploy using the mobile web version environment.
+> * **Mobile VS Web Version Deployment:** This bot attempts to read all incoming data simultaneously on Whatsapp web - https://web.whatsapp.com/ . For optimal performance and testing, it is highly recommended to deploy using the mobile environment.
 > * **Current Status:** The repository is currently in **Testing Mode**. Features may be unstable, and unexpected behavior may occur. Use with caution in production environments.
 
 ## Features
