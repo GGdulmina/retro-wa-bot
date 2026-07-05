@@ -8,6 +8,12 @@
 
 A lightweight, modular WhatsApp automation bot built with Node.js and [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js). Designed for local task management, featuring keyword-based auto-responses, network scanning capabilities, and efficient session handling.
 
+> [!WARNING]
+> **⚠️ IMPORTANT NOTICE: EXPERIMENTAL DEPLOYMENT & TESTING**
+> 
+> * **Mobile Web Version Deployment:** This bot attempts to read all incoming data simultaneously. For optimal performance and to avoid rate limits, it is highly recommended to deploy using the mobile web version environment.
+> * **Current Status:** The repository is currently in **Testing Mode**. Features may be unstable, and unexpected behavior may occur. Use with caution in production environments.
+
 ## Features
 
 - **Keyword-based Responses**: Customizable auto-replies based on keywords (see `data.json`)
